@@ -8,5 +8,8 @@
   },
   "repository": "git@github.com:marlowpayne/js-cli-starter-pack.git",
   "author": "Marlow Payne <marlow.payne@hootsuite.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
