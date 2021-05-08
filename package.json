@@ -1,0 +1,9 @@
+{
+  "name": "js-cli-starter-pack",
+  "version": "0.0.1",
+  "description": "A tiny starting point for writing JS CLI tools",
+  "main": "index.js",
+  "repository": "git@github.com:marlowpayne/js-cli-starter-pack.git",
+  "author": "Marlow Payne <marlow.payne@hootsuite.com>",
+  "license": "MIT"
+}
